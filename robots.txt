@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: keshbek-za-proigrysh.github.io
+Sitemap: https://keshbek-za-proigrysh.github.io/sitemap.xml
